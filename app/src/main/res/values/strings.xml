@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P08 Practcial Quiz</string>
+    <string-array name="item">
+        <item>W67A</item>
+        <item>W67B</item>
+        <item>W67C</item>
+        <item>W67D</item>
+
+    </string-array>
+</resources>
